@@ -1,6 +1,8 @@
 - duplicate the pipes path and files contained within.
 - Then import PipesModule and/or export PipesModule in your AppModule or SharedModule or anywhere needed.
 
+https://github.com/VadimDez/ngx-filter-pipe/issues/153
+
 MIT License
 
 Copyright (c) 2016 Vadym Yatsyuk
@@ -22,5 +24,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-via => https://github.com/VadimDez/ngx-filter-pipe
